@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%) no-repeat;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    padding: 40px;
+    color: white;
+    justify-content : center;
+}
+
+p {
+    justify-content: left;
+    text-align: justify;
+    margin-top: 50px;
+}
+
+#texto2 {
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
