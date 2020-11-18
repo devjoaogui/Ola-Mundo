@@ -9,11 +9,9 @@ body {
 #container {
     padding: 40px;
     color: white;
-    justify-content : center;
 }
 
 p {
-    justify-content: left;
     text-align: justify;
     margin-top: 20px;
 }
